@@ -1,2 +1,6 @@
-# EfficientTalk_DOC
-EfficientTalk_DOC
+# RUN
+
+```
+gem install bundler jekyll
+bundle exec jekyll serve
+```
