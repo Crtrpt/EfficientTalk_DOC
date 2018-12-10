@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: index
+title: 首页
+permalink: /
 ---
+
+# 12.10 网站建设中...
+
+-----
